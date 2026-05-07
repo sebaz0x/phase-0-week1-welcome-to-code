@@ -10,16 +10,6 @@ function bandingkanAngka(angka1, angka2) {
     }
 }
 
-// gemini refrensi
-// function bandingkanAngka(angka1, angka2){
-//     if (angka1 > angka2){
-//         return false
-//     } else if (angka2 > angka1){
-//         return true
-//     } else {
-//         return -1
-//     }
-// }
   
   // TEST CASES
   console.log(bandingkanAngka(5, 8)); // true
